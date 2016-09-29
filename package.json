@@ -1,6 +1,6 @@
 {
-  "name": "precinct",
-  "version": "3.1.2",
+  "name": "piuccio.precinct",
+  "version": "3.2.0",
   "description": "Unleash the detectives",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:mrjoelkemp/node-precinct.git"
+    "url": "git@github.com:piuccio/node-precinct.git"
   },
   "keywords": [
     "modules",
@@ -22,9 +22,9 @@
   "author": "Joel Kemp <joel@mrjoelkemp.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrjoelkemp/node-precinct/issues"
+    "url": "https://github.com/piuccio/node-precinct/issues"
   },
-  "homepage": "https://github.com/mrjoelkemp/node-precinct",
+  "homepage": "https://github.com/piuccio/node-precinct",
   "dependencies": {
     "debug": "^2.2.0",
     "detective-amd": "^2.4.0",
